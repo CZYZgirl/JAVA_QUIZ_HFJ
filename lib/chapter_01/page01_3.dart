@@ -34,7 +34,7 @@ class Page013 extends StatelessWidget {
             SizedBox(height: 16),
             Expanded(
               child: HtmlWidget(
-                '<iframe src="https://czyzgirl.github.io/java_crossword/" style="height:100%;"></iframe>',
+                '<iframe src="https://czyzgirl.github.io/java_crossword/" style="width: 450px; height:650px;"></iframe>',
               ),
             ),
           ],
