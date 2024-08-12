@@ -35,7 +35,7 @@ class _Page012State extends State<Page012> {
         backgroundColor: Colors.white,
         scrolledUnderElevation: 0,
         title: Text(
-          'Chapter 04_2',
+          'Chapter 01_2',
           style: TextStyle(fontStyle: FontStyle.italic, color: Colors.grey[700]),
         ),
       ),
@@ -59,7 +59,7 @@ class _Page012State extends State<Page012> {
             // exercise description
             Text(
               "이 페이지에 나와 있는 자바 파일은 하나의 온전한 소스 파일입니다. 이제 컴파일러 입장에서 각 파일을 무사히 컴파일 할 수 있을지 생각해 보세요. "
-                  "만약 컴파일이 되지 않는다면 어떻게 해야 문제점을 해결할 수 있을까요? 그리고 컴파일이 잘 된다면 그 출력결과는 어떻게 될까요?'",
+              "만약 컴파일이 되지 않는다면 어떻게 해야 문제점을 해결할 수 있을까요? 그리고 컴파일이 잘 된다면 그 출력결과는 어떻게 될까요?'",
               style: TextStyle(fontSize: 14),
             ),
             SizedBox(height: 16),

@@ -72,7 +72,7 @@ class _Page011State extends State<Page011> {
       appBar: AppBar(
         backgroundColor: Colors.white,
         scrolledUnderElevation: 0,
-        title: Text('Chapter 04_1', style: TextStyle(fontStyle: FontStyle.italic, color: Colors.grey[700]),),
+        title: Text('Chapter 01_1', style: TextStyle(fontStyle: FontStyle.italic, color: Colors.grey[700]),),
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
