@@ -97535,7 +97535,7 @@ s.iL(r,B.d4,A.bZ(0,500))}},
 $S:9}
 A.TU.prototype={
 G(a){var s=null,r=A.eE(B.l,0,A.k("Chapter 01_3",s,s,s,A.l(s,s,B.a7,s,s,s,s,s,s,s,s,s,B.af,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s)),q=A.k("\ub0b1\ub9d0\ud034\uc988",s,s,s,A.l(s,s,s,s,s,s,s,s,s,s,s,24,s,s,B.A,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),p=A.k("\uc774\uc81c \uc624\ub978\ucabd \ub450\ub1cc\ub3c4 \uc77c\uc744 \uc2dc\ucf1c\ubd05\uc2dc\ub2e4.",s,s,s,A.l(s,s,B.a7,s,s,s,s,s,s,s,s,18,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),o=A.k("\uc77c\ubc18\uc801\uc778 \uc2ed\uc790 \ub0b1\ub9d0\ud480\uc774\ub791 \ub611\uac19\uc774 \ud480\uba74 \ub429\ub2c8\ub2e4. \ub300\ubd80\ubd84\uc758 \ud574\ub2f5\uc740 1\uc7a5\uc5d0 \uc774\ubbf8 \ub098\uc640 \uc788\uc2b5\ub2c8\ub2e4. \uc815\uc2e0\uc744 \uc9d1\uc911\ud574\uc11c \ud55c\ubc88 \ud480\uc5b4 \ubcf4\uc138\uc694. \uc790\ubc14\uc640\ub294 \uc0c1\uad00\uc5c6\ub294 \uae30\uc220 \uc6a9\uc5b4\ub3c4 \uba87 \uac1c \ub4e4\uc5b4 \uc788\uc2b5\ub2c8\ub2e4.",s,s,s,A.l(s,s,s,s,s,s,s,s,s,s,s,14,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s)
-return A.ez(r,B.l,new A.at(B.aJ,A.au(A.a([q,new A.V(s,8,s,s),p,new A.V(s,16,s,s),o,new A.V(s,16,s,s),A.fB(new A.Dr(s,s,s,s,s,'<iframe src="https://czyzgirl.github.io/java_crossword/" style="height:100%;"></iframe>',A.bgI(),s,s,s,s,s,B.jE,s,s),1)],t.p),B.r,B.h,B.j,s,B.o),s),s,s)}}
+return A.ez(r,B.l,new A.at(B.aJ,A.au(A.a([q,new A.V(s,8,s,s),p,new A.V(s,16,s,s),o,new A.V(s,16,s,s),A.fB(new A.Dr(s,s,s,s,s,'<iframe src="https://czyzgirl.github.io/java_crossword/" style="width: 450px; height:650px;"></iframe>',A.bgI(),s,s,s,s,s,B.jE,s,s),1)],t.p),B.r,B.h,B.j,s,B.o),s),s,s)}}
 A.F8.prototype={
 a9(){return new A.a1z()}}
 A.a1z.prototype={
