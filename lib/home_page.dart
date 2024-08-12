@@ -28,7 +28,7 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   // the currently selected page, initialized to Page045
-  Widget _selectedPage = Page045();
+  Widget _selectedPage = Page011();
 
   // function to update the selected page
   void _selectPage(Widget page) {
