@@ -80,14 +80,15 @@ class _Page011State extends State<Page011> {
           children: [
             // section title
             Text(
-              '쓰면서 제대로 공부하기',
+              '코드 자석',
               style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
             ),
-            SizedBox(height: 8),
-            // section subtitle
+            SizedBox(height: 16),
+            // exercise description
             Text(
-              '무엇이 맞을까요?',
-              style: TextStyle(fontSize: 18, color: Colors.grey[700]),
+              "냉장고 위에 자바 프로그램 코드가 아무렇게나 널려 있습니다. 코드 스니펫을 재배치해서 아래에 있는 것과 같은 결과를 출력하는 자바 프로그램을 만들어 보세요. "
+              "아, 그런데 중괄호 몇 개는 바닥에 떨어져 버렸군요. 찾기 힘드니까 필요하면 마음대로 새롭게 추가해 보세요.",
+              style: TextStyle(fontSize: 14),
             ),
             SizedBox(height: 16),
 
@@ -112,13 +113,6 @@ class _Page011State extends State<Page011> {
                             fontWeight: FontWeight.bold),
                       ),
                       SizedBox(width: 8),
-                      Expanded(
-                        child: Text(
-                            "메서드를 다음과 같이 선언했다면 오른쪽에 있는 코드 중에서 메서드를 제대로 호출한 것은 어떤 것일까요? "
-                            "올바르게 호출한 코드 옆에 체크 표시를 해보세요(이 중에는 메서드를 호출할 때 사용할 변숫값을 대입하기 위한 코드도 있습니다.)",
-                          style: TextStyle(fontSize: 14),
-                        ),
-                      ),
                     ],
                   ),
                   Divider(),
